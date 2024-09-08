@@ -8,6 +8,7 @@
 - **Manual correction**: Allows users to select specific ranges in the spectrum and correct the values using linear interpolation.
 - **Spectrum visualization**: Load and visualize spectra directly through the graphical interface.
 - **Help interface**: A help section that guides users on how to utilize each functionality in the app.
+- **IMPORTANT**: The app reads spectrum files in the format provided in the example file uploaded to this repository.
 
 ## Screenshots
 
